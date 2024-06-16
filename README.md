@@ -1,2 +1,13 @@
 # IP_Changer
-Change your IP address
+
+
+
+HOW TO USE IT
+
+``` python
+python3 IP_Changer.py
+```
+
+``` python
+sudo python3 IP_Changer.py
+```
